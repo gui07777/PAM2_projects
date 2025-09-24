@@ -1,1 +1,0 @@
-# PAM2_projects
